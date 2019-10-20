@@ -1,6 +1,6 @@
 id="plugin.program.TAPWizard"
 version="0.4.5"
-zip="https://tapwizard.github.io/plugin.program.TAPWizard.zip"
+zip="https://tapwizard.github.io/tap/plugin.program.TAPWizard.zip"
 
 
 
