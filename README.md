@@ -1,6 +1,6 @@
-#TAPWizard  
-###Install custom builds from _TAPBuilds_  
-###Installation  
+# TAPWizard  
+### Install custom builds from _TAPBuilds_  
+### Installation  
 *  Go to Kodi file manager  
 *  Click on Add source  
 *  Enter the path **_https://tapwizard.github.io/tap_** (Leave name as 'tap' or rename)  
