@@ -1,4 +1,4 @@
-id="plugin.program.TAPBuildsWizard"
+id="plugin.program.openwizard"
 version="1.0.0"
 zip="https://tapwizard.github.io/test/plugin.program.openwizard.zip"
 
