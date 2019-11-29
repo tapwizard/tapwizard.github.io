@@ -1,5 +1,5 @@
 id="plugin.program.TAPBuildsWizard"
-version="1.0.0"
+version="1.2.0"
 zip="https://tapwizard.github.io/tw/plugin.program.TAPBuildsWizard.zip"
 
 
