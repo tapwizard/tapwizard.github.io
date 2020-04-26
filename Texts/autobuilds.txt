@@ -6,9 +6,9 @@ zip="https://tapwizard.github.io/tap/plugin.program.TAPWizard.zip"
 
 
 
-name="XonTAPRD"
+name="TAP"
 version="1.0"
-url="https://www.dropbox.com/s/p7jm0g2xkhstbw6/XonTAPRD.zip?dl=1"
+url="https://tapwizard.github.io/Builds/TAP.zip"
 minor="http://"
 gui="http://"
 kodi="17.6"
@@ -18,7 +18,7 @@ fanart="https://tapwizard.github.io/Images/kryptonfanart.jpg"
 preview="http://"
 adult="No"
 info="http://"
-description="XonTAP build with Real-Debrid"
+description="Kodi 17.6 (Krypton) build."
 
 
 
