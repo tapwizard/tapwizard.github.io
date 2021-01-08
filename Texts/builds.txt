@@ -21,6 +21,21 @@ info="http://"
 description="Kodi 17.6 (Krypton) blank build."
 
 
+name="TB18"
+version="1.0"
+url="https://www.dropbox.com/s/zm78qvvh98hk552/TB18.zip?dl=1"
+minor="http://"
+gui="http://"
+kodi="18.9"
+theme="http://"
+icon="https://tapwizard.github.io/Images/leiaicon.png"
+fanart="https://tapwizard.github.io/Images/leiafanart.jpg"
+preview="http://"
+adult="No"
+info="http://"
+description="Kodi 18 (Leia) blank build."
+
+
 name="TBW"
 version="1.0"
 url="https://tapwizard.github.io/Builds/TBW.zip"
@@ -34,3 +49,4 @@ preview="http://"
 adult="No"
 info="http://"
 description="Kodi 18 (Leia) blank build."
+
