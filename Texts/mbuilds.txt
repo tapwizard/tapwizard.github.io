@@ -1,6 +1,6 @@
-id="plugin.program.TBWM"
-version="1.0.0"
-zip="https://tapwizard.github.io/tbwm/plugin.program.TBWM.zip"
+id="plugin.program.TBWizardM"
+version="1.0"
+zip="https://tapwizard.github.io/tbwm/plugin.program.TBWizardM.zip"
 
 name="Example Build 1"
 version="1.0"
