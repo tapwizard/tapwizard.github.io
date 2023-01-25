@@ -1,24 +1,20 @@
 id="plugin.program.TAPWizard"
 version="0.4.5"
-zip="https://tapwizard.github.io/tap/plugin.program.TAPWizard.zip"
+zip="https://tapwizard.github.io/"
 
-
-
-
-
-name="TAP"
-version="1.0"
-url="https://tapwizard.github.io/Builds/TAP.zip"
+name=""
+version=""
+url="https://"
 minor="http://"
 gui="http://"
-kodi="17.6"
+kodi=""
 theme="http://"
-icon="https://tapwizard.github.io/Images/kryptonicon.png"
-fanart="https://tapwizard.github.io/Images/kryptonfanart.jpg"
+icon="https://"
+fanart="https://"
 preview="http://"
-adult="No"
+adult=""
 info="http://"
-description="Kodi 17.6 (Krypton) build."
+description=""
 
 
 
