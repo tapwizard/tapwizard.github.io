@@ -1,6 +1,6 @@
 1
 |||
-[B][COLOR red]TAPBuilds Wizard[/COLOR][/B]
+[B][I][COLOR red]TAPBuilds Wizard[/COLOR][/I][/B]
 
 A Lightweight Build Installer for [COLOR dodgerblue]Kodi[/COLOR]:
 
