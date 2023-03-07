@@ -1,0 +1,12 @@
+<builds>
+
+  <build>
+	<name>Horizon</name>
+	<version>1.0</version>
+	<url>https://www.dropbox.com/s/244u6vqwuofnajd/Horizon.zip?dl=1</url>
+	<icon>https://tapwizard.github.io/Images/matrixicon.png</icon>
+	<fanart>https://tapwizard.github.io/Images/matrixfanart.jpg</fanart>
+	<description>Kodi 19 (Matrix)</description>
+  </build>
+  
+</builds>
