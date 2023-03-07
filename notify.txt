@@ -1,8 +1,8 @@
-[B]{COLOR red]TAPBuilds Wizard[/COLOR][/B]
+TAPBuilds Wizard
 
-A Lightweight Build Installer for [COLOR dodgerblue]Kodi[/COLOR]:
+A Lightweight Build Installer for Kodi:
 
-Authorize [COLOR green]Debrid[/COLOR]/[COLOR red]Trakt[/COLOR]
+Authorize Debrid/Trakt
 
 Basic Mainrenance Tools
 
