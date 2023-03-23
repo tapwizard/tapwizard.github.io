@@ -9,4 +9,13 @@
 	<description>Kodi 19 (Matrix)</description>
   </build>
   
+  <build>
+	<name>Dom24</name>
+	<version>1.0</version>
+	<url>https://www.dropbox.com/s/1czgsgwjm2lguel/Dom24.zip?dl=1</url>
+	<icon>https://tapwizard.github.io/Images/matrixicon.png</icon>
+	<fanart>https://tapwizard.github.io/Images/matrixfanart.jpg</fanart>
+	<description>Kodi 19 (Matrix)</description>
+  </build>
+  
 </builds>
