@@ -30,17 +30,5 @@ adult="no"
 info="http://"
 description="Kodi 19 (Matrix)"
 
-name="HorizonNexus"
-version="1.0"
-url="https://www.dropbox.com/s/c63i5jsqzglf18z/HorizonNexus.zip?dl=1"
-minor="http://"
-gui="http://"
-kodi="20.1"
-theme="http://"
-icon="https://tapwizard.github.io/Images/matrixicon.png"
-fanart="https://tapwizard.github.io/Images/nexusfanart.jpg"
-preview="http://"
-adult="no"
-info="http://"
-description="Horizon Build for Kodi Nexus"
+
 
