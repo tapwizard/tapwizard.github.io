@@ -1,0 +1,22 @@
+id="plugin.program.TAPBuildsWizard"
+version="1.0"
+zip="https://tapwizard.github.io/"
+
+name="Rob"
+version="1.0"
+url=""
+minor="http://"
+gui="http://"
+kodi="20.2"
+theme="http://"
+icon="https://tapwizard.github.io/Images/matrixicon.png"
+fanart="https://tapwizard.github.io/Images/nexusfanart.jpg"
+preview="http://"
+adult="No"
+info="http://"
+description="Horizon Build for Kodi Nexus"
+
+
+
+
+
